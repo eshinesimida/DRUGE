@@ -1,8 +1,8 @@
-# degDPDR
-degDPDR: A drug repurposing method by differentially expressed genes in cancers and drug perturbation
+# DRUGE
+DRUGE: a drug repurposing method by predicting unmeasured gene expression based on deep learning
 
-# More about degDPDR
-degDPDR: A drug repurposing method by differentially expressed genes in cancers and drug perturbation
+# More about DRUGE
+DRUGE: a drug repurposing method by predicting unmeasured gene expression based on deep learning
 
 # Getting started
 
@@ -29,7 +29,7 @@ Then you can install the development version of degDPDR from [GitHub](https://gi
 ``` r
 if (!"devtools" %in% as.data.frame(installed.packages())$Package)
   install.packages("devtools")
-devtools::install_github("eshinesimida/DRIE")
+devtools::install_github("eshinesimida/DRUGE")
 
 ```
 ## Examples
